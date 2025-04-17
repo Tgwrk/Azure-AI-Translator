@@ -1,5 +1,6 @@
 # Azure-AI-Translator
-##Project Summary
+
+## Project Summary
 
   Use Azure AI Translator to translate text.
 
