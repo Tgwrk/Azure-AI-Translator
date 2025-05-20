@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=aitranslator1;AccountKey=YOUR_STORAGE_KEY;EndpointSuffix=core.windows.net",
+    "TRANSLATOR_KEY": "2GZ3kBfF5FbXt6d9aM0kzmUROdWPDzDum1oNP6h35qiOCO6xur0LJQQJ99BEACYeBjFXJ3w3AAAbACOGb8qM",
+    "TRANSLATOR_ENDPOINT": "https://api.cognitive.microsofttranslator.com/",
+    "STORAGE_ACCOUNT_NAME": "aitranslator1",
+    "STORAGE_ACCOUNT_KEY": "bb136PAFQsGXNnmT9WXarMhEAoCG8qxhTi0atbUmiFltVYcZz+x4A6koEl1QkBZRB36G1+Py5RO4+ASt94ZSlg=="
+  }
+}
